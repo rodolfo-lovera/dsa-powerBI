@@ -44,6 +44,35 @@ Este repositório contém os exercícios e projetos desenvolvidos ao longo do cu
 7. **Análise de Séries Temporais e IA**  
    - Utilização de inteligência artificial e modelos de séries temporais para prever tendências de negócios.
 
+8. **Power BI Para Análise de Dados de Recursos Humanos**  
+   - Desenvolvimento de dashboards para análise de dados de RH, como recrutamento, retenção e desempenho dos funcionários.
+
+9. **Power BI Para Análise de Dados de Logística**  
+   - Criação de relatórios para otimização de processos logísticos e cadeia de suprimentos.
+
+10. **Power BI Para Análise de Dados do Mercado de Ações**  
+    - Análise de dados financeiros e de mercado para tomada de decisões de investimento.
+
+11. **Estatística Fundamental Para Data Science**  
+    - Aplicação de conceitos estatísticos fundamentais para análise de dados no Power BI.
+
+12. **Limpeza e Manipulação de Dados com Power BI**  
+    - Técnicas avançadas de limpeza e transformação de dados para análise eficiente.
+
+13. **Manipulação de Dados com Power Query M Language**  
+    - Uso da linguagem M para manipulação e transformação de dados no Power Query.
+
+14. **Power BI e Bancos de Dados**  
+    - Conexão e integração do Power BI com diferentes tipos de bancos de dados.
+
+15. **Machine Learning e Power BI Para Segmentação de Clientes**  
+    - Implementação de modelos de machine learning para segmentação de clientes.
+
+16. **Machine Learning e Power BI Para Detecção de Anomalias**  
+    - Uso de algoritmos de machine learning para identificar anomalias em conjuntos de dados.
+
+17. **Inteligência Artificial e Análise de Séries Temporais com Power BI**  
+    - Aplicação de IA e modelos de séries temporais para previsão de tendências e comportamentos futuros.
 ---
 
 ## Como Contribuir
